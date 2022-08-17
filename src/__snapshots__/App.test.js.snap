@@ -1,0 +1,16 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`Probando el contador probando snapshots 1`] = `
+<div>
+  <div>
+    <p
+      data-testid="contador"
+    >
+      0
+    </p>
+    <button
+      data-testid="botton"
+    />
+  </div>
+</div>
+`;
